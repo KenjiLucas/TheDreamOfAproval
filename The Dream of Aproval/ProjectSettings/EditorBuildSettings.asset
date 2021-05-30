@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoginScene.unity
+    guid: 370e3f32f4108284abbdae04e557cb19
+  - enabled: 1
+    path: Assets/Scenes/CadastroScene.unity
+    guid: 17dd0cd9d437f0a418514d654707246e
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: b3ba6bf0ce8cc8645a377d90ab736ca5
+  - enabled: 1
+    path: Assets/Scenes/SelecaoAreaScene.unity
+    guid: 416b4693f745dc94dbbfd12d73c8fb38
+  - enabled: 1
+    path: Assets/Scenes/SelecaoFaseScene.unity
+    guid: dd7ecad5cf389534eabe11f8ac2afdd8
+  - enabled: 1
+    path: Assets/Scenes/BatalhaScene.unity
+    guid: 6ffc908cb6355864f9186d5e0ab030bc
+  - enabled: 1
+    path: Assets/Scenes/PuzzleScene.unity
+    guid: 944806ed85dedf449a9c163a9dad54ac
+  - enabled: 1
+    path: Assets/Scenes/ResultadoBatalhaScene.unity
+    guid: 454084f1f14651a42be92bf4765b1fd8
+  - enabled: 1
+    path: Assets/Scenes/ResultadoPuzzleScene.unity
+    guid: 74373150cf92fa24ca4eeac071822682
   m_configObjects: {}

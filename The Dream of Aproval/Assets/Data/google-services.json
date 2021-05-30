@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381977471849",
+    "project_id": "the-dream-of-approval",
+    "storage_bucket": "the-dream-of-approval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381977471849:android:99b02ce4eab2f896bdebf8",
+        "android_client_info": {
+          "package_name": "com.rpg.fantasy.TheDreamofAproval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381977471849-oldr7v9voh4edvb005i4js8k6vrhaa3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqJ07J-ntc9QTNoL7KqQTfYqEbZAWO9lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381977471849-oldr7v9voh4edvb005i4js8k6vrhaa3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

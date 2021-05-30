@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">381977471849</string>
+  <string name="google_storage_bucket" translatable="false">the-dream-of-approval.appspot.com</string>
+  <string name="project_id" translatable="false">the-dream-of-approval</string>
+  <string name="google_api_key" translatable="false">AIzaSyDqJ07J-ntc9QTNoL7KqQTfYqEbZAWO9lQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDqJ07J-ntc9QTNoL7KqQTfYqEbZAWO9lQ</string>
+  <string name="google_app_id" translatable="false">1:381977471849:android:99b02ce4eab2f896bdebf8</string>
+  <string name="default_web_client_id" translatable="false">381977471849-oldr7v9voh4edvb005i4js8k6vrhaa3k.apps.googleusercontent.com</string>
+</resources>
